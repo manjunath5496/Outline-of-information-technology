@@ -1,21 +1,15 @@
 <h2> Outline of information technology</h2>
 <p><strong><a title="Information technology" href="https://en.wikipedia.org/wiki/Information_technology">Information technology</a></strong>&nbsp;(<strong>IT</strong>) &ndash;&nbsp;<a title="Microelectronics" href="https://en.wikipedia.org/wiki/Microelectronics">microelectronics</a>&nbsp;based combination of&nbsp;<a title="Computing" href="https://en.wikipedia.org/wiki/Computing">computing</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Telecommunications" href="https://en.wikipedia.org/wiki/Telecommunications">telecommunications</a>&nbsp;<a title="Technology" href="https://en.wikipedia.org/wiki/Technology">technology</a>&nbsp;to treat&nbsp;<a title="Information" href="https://en.wikipedia.org/wiki/Information">information</a>, including in the acquisition, processing, storage and dissemination of vocal, pictorial, textual and numerical information. It is defined by the&nbsp;<a title="Information Technology Association of America" href="https://en.wikipedia.org/wiki/Information_Technology_Association_of_America">Information Technology Association of America</a>&nbsp;(ITAA) as "the study, design, development, implementation, support or management of computer-based&nbsp;<a title="Information system" href="https://en.wikipedia.org/wiki/Information_system">information systems</a>, particularly t applications and computer hardware."</p>
 <p>&nbsp;</p>
-
 <h2 id="mw-toc-heading">Contents</h2>
-
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Different_names"><span class="tocnumber">1</span><span class="toctext">Different names</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#History_of_information_technology"><span class="tocnumber">2</span><span class="toctext">History of information technology</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Vendor-specific_certifications"><span class="tocnumber">3</span><span class="toctext">Vendor-specific certifications</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Information_technology_and_society"><span class="tocnumber">4</span><span class="toctext">Information technology and society</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#General_certification"><span class="tocnumber">5</span><span class="toctext">General certification</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Underlying_technology"><span class="tocnumber">6</span><span class="toctext">Underlying technology</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">7</span><span class="toctext">Further reading</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">8</span><span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">9</span><span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Different_names"><span class="toctext">Different names</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History_of_information_technology"><span class="toctext">History of information technology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Vendor-specific_certifications"><span class="toctext">Vendor-specific certifications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Information_technology_and_society"><span class="toctext">Information technology and society</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#General_certification"><span class="toctext">General certification</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Underlying_technology"><span class="toctext">Underlying technology</span></a></li>
 </ul>
-
 <p>&nbsp;</p>
 <h2><span id="Different_names" class="mw-headline">Different names</span></h2>
 <p>There are different names for this at different periods or through fields. Some of these names are:</p>
